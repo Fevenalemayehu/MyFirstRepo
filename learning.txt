@@ -1,0 +1,5 @@
+What I have learned from this course
+- Git clone and repository setup
+- Creating and managing files
+- Committing and pushing changes
+- Resolving authentication issues
